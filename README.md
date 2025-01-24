@@ -49,7 +49,7 @@
 ---
 
 ## 📫 Bana Ulaşın / Contact Me  
-- LinkedIn: [Emirhan Çakır](www.linkedin.com/in/emirhan-cakir-637674281)  
+- LinkedIn: [Emirhan Çakır](www.linkedin.com/in/iamemirhancakir)  
 - GitHub: [iamemirhancakir](https://github.com/iamemirhancakir)  
 - E-posta / Email: [emirhancakir003@gmail.com](mailto:emirhancakir003@gmail.com)  
 
